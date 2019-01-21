@@ -18,6 +18,7 @@ A simple game created for learning the Vue.js ecosystem. This project makes use 
 * [Single file components](https://vuejs.org/v2/guide/single-file-components.html)
 * [Component scoped CSS](https://vue-loader.vuejs.org/en/features/scoped-css.html)
 * [Enter/Leave transitions](https://vuejs.org/v2/guide/transitions.html)
+* [FireBase](https://firebase.google.com/)
 
 ## Build Setup
 
